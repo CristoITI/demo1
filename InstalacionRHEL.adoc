@@ -1,2 +1,7 @@
 ====
-Demo
+1: Para la instalacion de un sistema operativo fedora se requieren las siguientes caracteristicas:
+
+
+  1.- Tener una imagen ISO del S.O a instalar.
+  2.- Una unidad de media para la instalación.
+  3.- Iniciar el equipo físico desde la Bios, y seleccionar nuestra unidad para el arranque.
